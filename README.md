@@ -16,6 +16,7 @@ Esses dados demonstram a urgência de ferramentas que possam educar, informar e 
 
 ## Resultados
 
+https://github.com/user-attachments/assets/622eb9b6-a6eb-4fce-92b9-39660d6b52a9
 
 
 ## Instruções para Execução:
